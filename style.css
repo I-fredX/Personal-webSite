@@ -1,0 +1,55 @@
+body{
+    background-color:  #191970;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #4f4cff, #d52008);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+#introduction{
+    background-color: #191970;
+}
+
+.profile-img{
+    border-radius: 30%;
+    height: 300px;
+
+}
+
+.title-text h1{
+    font-family: 'Bungee Hairline', cursive;
+    color: lightgray;
+}
+
+.title-text p{
+    color: lightgray;
+}
+
+.name{
+    font-family: 'Cabin Sketch', cursive;
+    color: gold;
+}
+
+#skills-experience{
+    font-family: 'Roboto', sans-serif;
+    background-color: lightgray;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.resume-button{
+    margin-left: 20px ;
+}
+
+.project-title{
+    font-family: 'Yuji Hentaigana Akari', cursive;
+    color:silver;
+}
+
+
+.footer-text{
+    color: silver;
+}
